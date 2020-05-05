@@ -1,0 +1,160 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "videoUrl": "https://youtube.com",
+      "description": "First video"
+    },
+    {
+      "id": 2,
+      "videoUrl": "https://youtube.com",
+      "description": "Second video"
+    }
+  ],
+  "courses": [
+    {
+      "id": "html-css",
+      "name": "HTML & CSS",
+      "image": "https://res.cloudinary.com/undercover/image/upload/v1586649811/VGG-Udemy_clone/html_jh7oq9.png",
+      "description": "Introduction to Html and Css",
+      "links": [
+        {
+          "url": "https://res.cloudinary.com/undercover/video/upload/v1588504801/m58egpxysysis4xpdylz.mp4",
+          "title": "HTML & CSS Part 1"
+        }
+      ]
+    },
+    {
+      "id": "sass",
+      "name": "Sass",
+      "image": "https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/react/sass.svg",
+      "description": "Sass Tutorial for Beginners",
+      "links": [
+        {
+          "url": "https://www.youtube.com/embed/_a5j7KoflTs",
+          "title": "HTML & CSS Part 1"
+        }
+      ]
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "image": "https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/react/es6.svg",
+      "description": "Introduction to Javascript",
+      "links": [
+        {
+          "url": "https://res.cloudinary.com/undercover/video/upload/v1588515240/pqpu5ssagigmy3snhmhv.mp4",
+          "title": "HTML & CSS Part 1"
+        }
+      ]
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "image": "https://res.cloudinary.com/undercover/image/upload/v1588266042/u4uzght7xxoywddgiii4.png",
+      "description": "Introduction to React",
+      "links": [
+        {
+          "url": "https://www.youtube.com/embed/JKCgwL-IfgM",
+          "title": "HTML & CSS Part 1"
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "name": "PYTHON",
+      "image": "https://res.cloudinary.com/undercover/image/upload/v1586649759/VGG-Udemy_clone/python_nbyhp8.png",
+      "description": "Introduction to Python",
+      "links": [
+        {
+          "url": "https://www.youtube.com/embed/WGJJIrtnfpk",
+          "title": "HTML & CSS Part 1"
+        }
+      ]
+    },
+    {
+      "id": "nodejs",
+      "name": "Node js",
+      "image": "https://img.icons8.com/color/144/000000/nodejs.png",
+      "description": "Getting started with Node.Js",
+      "links": [
+        {
+          "url": "https://www.youtube.com/embed/gG3pytAY2MY",
+          "title": "HTML & CSS Part 1"
+        }
+      ]
+    },
+    {
+      "id": "angularjs",
+      "name": "Angular js",
+      "image": "https://res.cloudinary.com/undercover/image/upload/v1586649303/VGG-Udemy_clone/angular-icon_yfzdmk.svg",
+      "description": "Introduction to Angularjs",
+      "links": [
+        {
+          "url": "https://www.youtube.com/embed/pTec1e8oyc8",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "id": "csharp",
+      "name": "C-SHARP",
+      "image": "https://res.cloudinary.com/undercover/image/upload/v1586649326/VGG-Udemy_clone/C_Sharp_logo_shqcoo.png",
+      "description": "Introduction to CSharp",
+      "links": [
+        {
+          "url": "https://www.youtube.com/embed/GhQdlIFylQ8?start=25",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "Go Promgramming ",
+      "image": "http://res.cloudinary.com/undercover/image/upload/v1588514444/dhfpwc86qjjbaz72x14j.png",
+      "description": "Concurrency in GO ",
+      "links": [
+        {
+          "url": "https://res.cloudinary.com/undercover/video/upload/v1588549953/lubmtntvl5ajamte4m8w.mp4",
+          "title": "GO language for beginner"
+        }
+      ],
+      "id": "h_4TVcE"
+    },
+    {
+      "name": "Javascript",
+      "image": "http://res.cloudinary.com/undercover/image/upload/v1588515226/u2peg022hyvzksn6xug9.png",
+      "description": "ES6 Javascript",
+      "links": [
+        {
+          "url": "https://res.cloudinary.com/undercover/video/upload/v1588515240/pqpu5ssagigmy3snhmhv.mp4",
+          "title": "Es6 syntax for beginner"
+        }
+      ],
+      "id": "sYJQT1-"
+    },
+    {
+      "name": "React.Js",
+      "image": "http://res.cloudinary.com/undercover/image/upload/v1588673416/k0tlre2tgekez8hitkox.png",
+      "description": "React Review",
+      "links": [
+        {
+          "url": "http://res.cloudinary.com/undercover/video/upload/v1588673711/qklaoxmqlxdz0b58flly.mp4",
+          "title": "Review of best practices in React.Js"
+        }
+      ],
+      "id": "6XY2Pl6"
+    }
+  ],
+  "subscriptions": [
+    {
+      "courses": [],
+      "id": "writeshittu@gmail.com"
+    },
+    {
+      "courses": [
+        "python"
+      ],
+      "id": "yusufsaheedtaiwo@gmail.com"
+    }
+  ]
+}
